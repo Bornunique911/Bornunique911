@@ -31,7 +31,6 @@
 
 <image src="https://www.hackthebox.eu/badge/image/526639" alt="Hack The Box" style="max-width: 480px"> <br>
 <image src="https://github.com/Bornunique911/TryHackMe_badge_image/blob/main/Bornunique911.png">
-<img src="https://tryhackme-badges.s3.amazonaws.com/Bornunique911.png" alt="TryHackMe">
   
 ## 📈 Statistics :-
 <image src="https://github-readme-stats.vercel.app/api?username=Bornunique911&show_icons=true&theme=tokyonight">
