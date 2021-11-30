@@ -19,10 +19,12 @@
 
   
 ## 🎓 Certifications :- 
-- Complete Beginner Learning Path By TryHackMe
-- Web Fundamentals Learning Path by TryHackMe  
+- Complete Beginner Learning Path By TryHackMe (2020)
+- Web Fundamentals Learning Path by TryHackMe (2020)
 - Advent Of Cyber 2020 by TryHackMe
 - Cyber Apcocalypse CTF 2021 by HackTheBox
+- Pre Security Learning Path (2021)
+- CompTIA Pentest+ Learning Path (2021)  
 
   
 ## 📛 Badges :-
