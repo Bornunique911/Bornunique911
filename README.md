@@ -24,7 +24,8 @@
 - Advent Of Cyber 2020 by TryHackMe
 - Cyber Apcocalypse CTF 2021 by HackTheBox
 - Pre Security Learning Path (2021)
-- CompTIA Pentest+ Learning Path (2021)  
+- CompTIA Pentest+ Learning Path (2021)
+- Junior Penetration Tester Learning Path(2021)  
 
   
 ## 📛 Badges :-
