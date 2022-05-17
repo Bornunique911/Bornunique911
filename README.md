@@ -35,7 +35,7 @@
 <image src="https://github.com/Bornunique911/TryHackMe_badge_image/blob/main/Bornunique911.png">
   
 ## 📈 Statistics :-
-<image src="https://github-readme-stats.vercel.app/api?username=Bornunique91&show_icons=true&theme=tokyonight">
+<image src="https://github-readme-stats.vercel.app/api?username=Bornunique911&show_icons=true&theme=tokyonight">
   
 
 ## 📱 Contact Me Here :-
