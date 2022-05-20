@@ -41,6 +41,8 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
 	    <img alt="Bornunique911's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Bornunique911&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bornunique911&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Bornunique911" height="230px"/>
+----
+<summary><b>⚡ Git profile Trophies</b></summary>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bornunique911&layout=compact&theme=algolia" alt="Bornunique911" /></a> </p>
 <summary><b>⚡ Recent GitHub Activity</b></summary>
 <a href="https://github.com/Bornunique911"><img alt="Bornunique911's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Bornunique911&custom_title=Bornunique911%27s%20Contribution%20Graph&theme=react-dark" /></a>
