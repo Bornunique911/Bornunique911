@@ -36,15 +36,7 @@
   
 ## 📈 Statistics :-
 <image src="https://github-readme-stats.vercel.app/api?username=Bornunique911&show_icons=true&theme=tokyonight">
-  
-
-## 📱 Contact Me Here :-
-<a href="mailto:raviraj.mehta911@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://twitter.com/bornunique911"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/ravirajmehta/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://github.com/Bornunique911"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bornunique911&layout=compact&theme=algolia" alt="Manar Shahin" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bornunique911&layout=compact&theme=algolia" alt="Bornunique911" /></a> </p>
 
 ----
 
@@ -52,3 +44,10 @@
   <br/>
    <a href="https://github.com/Bornunique911"><img alt="Bornunique911's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Bornunique911&custom_title=Bornunique911%27s%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
+  
+
+## 📱 Contact Me Here :-
+<a href="mailto:raviraj.mehta911@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://twitter.com/bornunique911"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/ravirajmehta/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/Bornunique911"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
