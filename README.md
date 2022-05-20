@@ -41,7 +41,15 @@
 <summary><b>⚡ Recent GitHub Activity</b></summary>
 <a href="https://github.com/Bornunique911"><img alt="Bornunique911's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Bornunique911&custom_title=Bornunique911%27s%20Contribution%20Graph&theme=react-dark" /></a>
 <br/>
-  
+
+## 📊 Github Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Bornunique911&theme=tokyonight_duo" alt="Bornunique911" /></p>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+	    <img alt="Bornunique911's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Bornunique911&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bornunique911&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Bornunique911" height="230px"/>
+<br/>  
 
 ## 📱 Contact Me Here :-
 <a href="mailto:raviraj.mehta911@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
