@@ -44,3 +44,11 @@
 <a href="https://www.linkedin.com/in/ravirajmehta/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://github.com/Bornunique911"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bornunique911&layout=compact&theme=algolia" alt="Manar Shahin" /></a> </p>
+
+----
+
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/manarshahin48"><img alt="Bornunique911's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Bornunique911&custom_title=Bornunique911%27s%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
