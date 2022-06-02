@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-# Hiya everyone,thank you for visiting my github profile. I hope you spare some nice time here. <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+# Hiya everyone,thank you for visiting my github profile. I hope you spare some nice time here.
 * Hi, I'm `Bornunique911`,a Cybersec Enthusiast and a CTF Player! 💻 <br>
 * I'm a just a normal guy who is having passion in making career in cybersecurity.<br>
 * I'm also interested in getting into newly emerging technologies and share the experiences to friends which are newbie just like me in it.<br>
