@@ -23,10 +23,15 @@
 - Web Fundamentals Learning Path by TryHackMe (2020)
 - Advent Of Cyber 2020 by TryHackMe
 - Cyber Apcocalypse CTF 2021 by HackTheBox
-- Pre Security Learning Path (2021)
-- CompTIA Pentest+ Learning Path (2021)
-- Junior Penetration Tester Learning Path(2021)  
-- Advent Of Cyber 2021 by TryHackMe (2021)  
+- Pre Security Learning Path by TryHackMe (2021)
+- CompTIA Pentest+ Learning Path by TryHackMe (2021)
+- Junior Penetration Tester Learning Path by TryHackMe (2021)  
+- Advent Of Cyber 2021 by TryHackMe (2021)
+- Offensive Pentesting Learning Path by TryHackMe (2022)
+- Introduction to Cyber Security Learning Path by TryHackMe (2022)
+- Cyber Defense Learning Path by TryHackMe (2022)
+- Red Teaming Learning Path by TryHackMe (2022)
+- HackTheBoo CTF by HackTheBox (2022)
 
   
 ## 📛 Badges :-
