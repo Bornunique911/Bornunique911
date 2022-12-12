@@ -52,7 +52,7 @@
 <summary><b>⚡ Git profile Trophies</b></summary>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bornunique911&layout=compact&theme=algolia" alt="Bornunique911" /></a> </p>
 <summary><b>⚡ Recent GitHub Activity</b></summary>
-<a href="https://github.com/Bornunique911"><img alt="Bornunique911's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Bornunique911&custom_title=Bornunique911%27s%20Contribution%20Graph&theme=react-dark" /></a>
+<a href="https://github.com/Bornunique911"><img alt="Bornunique911's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Bornunique911&theme=react-dark" /></a>
 <br/>  
 
 ## 📱 Contact Me Here :-
