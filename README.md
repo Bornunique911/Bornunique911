@@ -32,7 +32,7 @@
 - Cyber Defense Learning Path by TryHackMe (2022)
 - Red Teaming Learning Path by TryHackMe (2022)
 - HackTheBoo CTF by HackTheBox (2022)
-
+- Advent of Cyber 2022 by TryHackMe (2022)
   
 ## 📛 Badges :-
 
@@ -45,8 +45,9 @@
   <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="Bornunique911's Github Stats" src="[https://github-readme-stats.vercel.app/api?username=Bornunique911&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact](https://github-readme-stats.vercel.app/api?username=Bornunique911&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact)" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bornunique911&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Bornunique911" height="230px"/>
+	    <img alt="Bornunique911's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Bornunique911&show_icons=true&theme=tokyonight" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bornunique911&langs_count=5&show_icons=true&locale=en&theme=tokyonight" alt="Bornunique911" height="230px"/>
+	</p>	  
 
 ----
 <summary><b>⚡ Git profile Trophies</b></summary>
