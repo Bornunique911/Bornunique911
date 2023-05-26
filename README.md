@@ -63,7 +63,7 @@
 
 ----
 <summary><b>⚡ Recent GitHub Activity</b></summary>
-<a href="https://github.com/Bornunique911"><img alt="Bornunique911's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Bornunique911&theme=react-dark" /></a>
+<a href="https://github.com/Bornunique911"><img alt="Bornunique911's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Bornunique911&theme=react-dark" /></a>
 <br/>  
 
 ----
