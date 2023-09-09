@@ -40,7 +40,7 @@
 
 <image src="https://www.hackthebox.eu/badge/image/526639" alt="Hack The Box" style="max-width: 480px"> <br>
 ----
-<image src="https://github.com/Bornunique911/TryHackMe_badge_image/blob/main/Bornunique911.png">
+<image src="https://tryhackme-badges.s3.amazonaws.com/Bornunique911.png">
 
 ----
 [![@bornunique911's Holopin board](https://holopin.me/bornunique911)](https://holopin.io/@bornunique911)
