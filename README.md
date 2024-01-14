@@ -40,9 +40,11 @@
 
 <image src="https://www.hackthebox.eu/badge/image/526639" alt="Hack The Box" style="max-width: 480px"> <br>
 ----
-<image src="https://tryhackme-badges.s3.amazonaws.com/Bornunique911.png">
-
+<image src="https://tryhackme-badges.s3.amazonaws.com/Bornunique911.png" alt="TryHackMe"> <br>
 ----
+<img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/Bornunique911.png" alt="CyberDefenders.org" width="300" />	
+
+---
 [![@bornunique911's Holopin board](https://holopin.me/bornunique911)](https://holopin.io/@bornunique911)
 
 ----	
