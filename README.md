@@ -61,7 +61,7 @@
 
 ----
 <summary><b>⚡ Git profile Trophies</b></summary>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bornunique911&theme=algolia&no-bg=true" alt="Bornunique911" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bornunique911&theme=algolia" alt="Bornunique911" /></a> </p>
 
 ----
 <summary><b>⚡ Recent GitHub Activity</b></summary>
