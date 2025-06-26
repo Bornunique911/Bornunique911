@@ -51,7 +51,8 @@
 ## 📈 Statistics :-
 
 ----
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Bornunique911&theme=tokyonight_duo" alt="Bornunique911" /></p>
+
+<p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=Bornunique911&theme=tokyonight_duo" alt="Bornunique911" /></p>
   <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
