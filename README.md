@@ -52,17 +52,17 @@
 
 ----
 
-<p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-stats-five-roan.vercel.app?user=Bornunique911&theme=tokyonight-duo" alt="Bornunique911" /></a></p>
+<p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-five-roan.vercel.app?user=Bornunique911&theme=tokyonight-duo&date_format=j%20M%5B%20Y%5D" alt="Bornunique911" /></a></p>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="Bornunique911's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bornunique911&show_icons=true&theme=tokyonight" height="230px"/></a>
-	    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bornunique911&langs_count=5&show_icons=true&locale=en&theme=tokyonight" alt="Bornunique911" height="230px"/>
+    <a href="https://github.com/stats-organization/github-stats-extended">
+	    <img alt="Bornunique911's Github Stats" src="https://github-stats-extended.vercel.app/api?username=bornunique911&show_icons=true&theme=tokyonight" height="230px"/></a>
+	    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=bornunique911&langs_count=5&show_icons=true&locale=en&theme=tokyonight" alt="Bornunique911" height="230px"/>
 	</p>	  
 
 ----
 <summary><b>⚡ Git profile Trophies</b></summary>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bornunique911&theme=algolia" alt="Bornunique911" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-repo.vercel.app/?username=Bornunique911&theme=algolia" alt="Bornunique911" /></a> </p>
 
 ----
 <summary><b>⚡ Recent GitHub Activity</b></summary>
@@ -73,4 +73,4 @@
 ## 📱 Contact Me Here :-
 <a href="https://twitter.com/bornunique911"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://github.com/Bornunique911"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Bornunique911}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://counter.kuber.studio/bornunique911/glassmorphism/count.svg" /></p> 
