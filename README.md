@@ -74,3 +74,4 @@
 <a href="https://twitter.com/bornunique911"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://github.com/Bornunique911"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 <p align="center"><img align="center" src="https://counter.kuber.studio/bornunique911/glassmorphism/count.svg" /></p> 
+<p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=bornunique911&label=Views&color=blue&style=flat&abbreviated=true" /></p>
