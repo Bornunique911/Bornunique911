@@ -62,16 +62,21 @@
 
 ----
 <summary><b>⚡ Git profile Trophies</b></summary>
+
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-repo.vercel.app/?username=Bornunique911&theme=algolia" alt="Bornunique911" /></a> </p>
 
 ----
 <summary><b>⚡ Recent GitHub Activity</b></summary>
+
+<br>
 <a href="https://git.io/streak-stats"><img alt="Bornunique911's Activity Graph" src="https://streak-stats.demolab.com/?username=bornunique911&theme=tokyonight-duo" /></a>
 <br/>
 
 ----
-## My Contribution Graph
+<summary><b>⚡ My Contribution Graph</b></summary>
 
+<br>
 <!-- [game-name] -->
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bornunique911/Bornunique911/output/pacman-contribution-graph-dark.svg">
