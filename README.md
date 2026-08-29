@@ -19,7 +19,7 @@
 <image src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">  <image src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"> <image src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 
 ----  
-## 🎓 Certifications :- 
+## 🎓 Certifications
 - Complete Beginner Learning Path By TryHackMe (2020)
 - Web Fundamentals Learning Path by TryHackMe (2020)
 - Advent Of Cyber 2020 by TryHackMe
@@ -36,7 +36,7 @@
 - Advent of Cyber 2022 by TryHackMe (2022)
 
 ----	
-## 📛 Badges :-
+## 📛 Badges
 
 <image src="https://www.hackthebox.eu/badge/image/526639" alt="Hack The Box" style="max-width: 480px"> <br>
 ----
@@ -48,7 +48,7 @@
 [![@bornunique911's Holopin board](https://holopin.me/bornunique911)](https://holopin.io/@bornunique911)
 
 ----	
-## 📈 Statistics :-
+## 📈 Statistics
 
 ----
 
@@ -67,10 +67,20 @@
 ----
 <summary><b>⚡ Recent GitHub Activity</b></summary>
 <a href="https://git.io/streak-stats"><img alt="Bornunique911's Activity Graph" src="https://streak-stats.demolab.com/?username=bornunique911&theme=tokyonight-duo" /></a>
-<br/>  
+<br/>
 
 ----
-## 📱 Contact Me Here :-
+## My Contribution Graph
+
+<!-- [game-name] -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bornunique911/Bornunique911/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bornunique911/Bornunique911/output/pacman-contribution-graph.svg">
+    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Bornunique911/Bornunique911/output/pacman-contribution-graph.svg">
+</picture>
+
+----
+## 📱 Contact Me Here
 <a href="https://twitter.com/bornunique911"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://github.com/Bornunique911"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 <p align="center"><img align="center" src="https://counter.kuber.studio/bornunique911/glassmorphism/count.svg" /></p> 
